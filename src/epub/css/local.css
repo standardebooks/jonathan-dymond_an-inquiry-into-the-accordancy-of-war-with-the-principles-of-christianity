@@ -119,3 +119,7 @@ p span.i9{
 	text-indent: -1em;
 }
 /* End verse */
+
+#chapter-2 ol{
+	list-style-type: upper-roman;
+}
