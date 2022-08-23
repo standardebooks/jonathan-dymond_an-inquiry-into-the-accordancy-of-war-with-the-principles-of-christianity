@@ -6,6 +6,10 @@ blockquote[xml|lang]{
 	font-style: italic;
 }
 
+blockquote[xml|lang] cite{
+	font-style: normal;
+}
+
 /* All epigraphs */
 [epub|type~="epigraph"]{
 	font-style: italic;
@@ -107,6 +111,11 @@ section[epub|type~="epigraph"] > *{
 
 p span.i4{
 	padding-left: 5em;
+	text-indent: -1em;
+}
+
+p span.i9{
+	padding-left: 10em;
 	text-indent: -1em;
 }
 /* End verse */
