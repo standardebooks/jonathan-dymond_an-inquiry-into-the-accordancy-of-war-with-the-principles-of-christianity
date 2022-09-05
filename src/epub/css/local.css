@@ -96,6 +96,6 @@ p span.i9{
 }
 /* End verse */
 
-#chapter-2 ol{
+#chapter-2 ol:last-of-type{
 	list-style-type: upper-roman;
 }
