@@ -28,43 +28,43 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">An Inquiry Into the Accordancy of War with the Principles of Christianity</dc:title>
 		<meta property="file-as" refines="#title">Inquiry Into the Accordancy of War with the Principles of Christianity, An</meta>
-		<dc:subject id="subject-1">SUBJECT_1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
+		<dc:subject id="subject-1">War -- Religious aspects</dc:subject>
+		<dc:subject id="subject-2">Pacifism</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">LCSH_ID_1</meta>
+		<meta property="term" refines="#subject-1">sh85145127</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">LCSH_ID_2</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="term" refines="#subject-2">sh85096501</meta>
+		<meta property="se:subject">Philosophy</meta>
+		<meta property="se:subject">Spirituality</meta>
+		<dc:description id="description">Dymond argues that war is incompatible with the teachings of Christianity.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;In his &lt;i&gt;Inquiry&lt;/i&gt;, the early 19th-century Quaker philosopher &lt;a href="https://standardebooks.org/ebooks/jonathan-dymond"&gt;Jonathan Dymond&lt;/a&gt; investigates the centuries-old question of whether war is compatible with the teachings of Christianity. Examining the question through both the lenses of Christian tradition and secular philosophy, Dymond argues that war is thoroughly incompatible with Christianity in its preceeding causes, present reality, and following consequences. Much of the tract is dedicated to refuting the arguments of his opponents, such as claims that certain passages of the Bible sanction war or that the moral commandments of Christianity can be superseded on a case-to-case basis on utilitarian grounds of “expediency.” Dymond’s &lt;i&gt;Inquiry&lt;/i&gt; was later cited by his fellow Christian pacifist &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy"&gt;Leo Tolstoy&lt;/a&gt; in &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy/the-kingdom-of-god-is-within-you/leo-wiener"&gt;&lt;i&gt;The Kingdom of God Is Within You&lt;/i&gt;&lt;/a&gt;, further advancing Dymond’s argument that it is the duty of a Christian “mildly and temperately, yet firmly, to refuse to serve” in the military.&lt;/p&gt;
 		</meta>
-		<dc:language>LANG</dc:language>
-		<dc:source>PG_URL</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:language>en-US</dc:language>
+		<dc:source>http://www.qhpress.org/texts/dymond/index.html</dc:source>
+		<dc:source>https://archive.org/details/aninquiryintoac06dymogoog</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jonathan-dymond_an-inquiry-into-the-accordancy-of-war-with-the-principles-of-christianity</meta>
 		<dc:creator id="author">Jonathan Dymond</dc:creator>
 		<meta property="file-as" refines="#author">Dymond, Jonathan</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Jonathan_Dymond</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n88001557</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<meta property="se:role" refines="#author" scheme="marc:relators">ann</meta>
+		<meta property="se:role" refines="#author" scheme="marc:relators">wpr</meta>
+		<dc:contributor id="artist">El Greco</dc:contributor>
+		<meta property="file-as" refines="#artist">Greco, El</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/El_Greco</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n81070611</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">Quaker Heritage Press</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Quaker Heritage Press</meta>
+		<meta property="se:url.homepage" refines="#transcriber-1">http://www.qhpress.org/index.html</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Weijia Cheng</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Cheng, Weijia</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://weijiarhymeswith.asia</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
