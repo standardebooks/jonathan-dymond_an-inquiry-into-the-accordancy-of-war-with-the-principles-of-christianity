@@ -28,6 +28,13 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">An Inquiry Into the Accordancy of War with the Principles of Christianity</dc:title>
 		<meta property="file-as" refines="#title">Inquiry Into the Accordancy of War with the Principles of Christianity, An</meta>
+		<meta property="title-type" refines="#title">main</meta>
+		<dc:title id="subtitle">And an Examination of the Philosophical Reasoning by Which It Is Defended, with Observations on Some of the Causes of War and on Some of Its Effects</dc:title>
+		<meta property="file-as" refines="#subtitle">And an Examination of the Philosophical Reasoning by Which It Is Defended, with Observations on Some of the Causes of War and on Some of Its Effects</meta>
+		<dc:title id="fulltitle">An Inquiry Into the Accordancy of War with the Principles of Christianity: And an Examination of the Philosophical Reasoning by Which It Is Defended, with Observations on Some of the Causes of War and on Some of Its Effects</dc:title>
+		<meta property="file-as" refines="#fulltitle">Inquiry Into the Accordancy of War with the Principles of Christianity, An</meta>
+		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:subject id="subject-1">War -- Religious aspects</dc:subject>
 		<dc:subject id="subject-2">Pacifism</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
