@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/jonathan-dymond/an-inquiry-into-the-accordancy-of-war-with-the-principles-of-christianity</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2022-09-09T16:55:52Z</dc:date>
+		<meta property="dcterms:modified">2022-09-09T16:55:52Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -45,13 +45,13 @@
 		<meta property="se:subject">Spirituality</meta>
 		<dc:description id="description">Dymond argues that war is incompatible with the teachings of Christianity.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;In his &lt;i&gt;Inquiry&lt;/i&gt;, the early 19th-century Quaker philosopher &lt;a href="https://standardebooks.org/ebooks/jonathan-dymond"&gt;Jonathan Dymond&lt;/a&gt; investigates the centuries-old question of whether war is compatible with the teachings of Christianity. Examining the question through both the lenses of Christian tradition and secular philosophy, Dymond argues that war is thoroughly incompatible with Christianity in its preceeding causes, present reality, and following consequences. Much of the tract is dedicated to refuting the arguments of his opponents, such as claims that certain passages of the Bible sanction war or that the moral commandments of Christianity can be superseded on a case-to-case basis on utilitarian grounds of “expediency.” Dymond’s &lt;i&gt;Inquiry&lt;/i&gt; was later cited by his fellow Christian pacifist &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy"&gt;Leo Tolstoy&lt;/a&gt; in &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy/the-kingdom-of-god-is-within-you/leo-wiener"&gt;&lt;i&gt;The Kingdom of God Is Within You&lt;/i&gt;&lt;/a&gt;, further advancing Dymond’s argument that it is the duty of a Christian “mildly and temperately, yet firmly, to refuse to serve” in the military.&lt;/p&gt;
+			&lt;p&gt;In his &lt;i&gt;Inquiry&lt;/i&gt;, the early 19th-century Quaker philosopher &lt;a href="https://standardebooks.org/ebooks/jonathan-dymond"&gt;Jonathan Dymond&lt;/a&gt; investigates the centuries-old question of whether war is compatible with the teachings of Christianity. Examining the question through both the lenses of Christian tradition and secular philosophy, Dymond argues that war is thoroughly incompatible with Christianity in its preceding causes, present reality, and following consequences. Much of the tract is dedicated to refuting the arguments of his opponents, such as claims that certain passages of the Bible sanction war or that the moral commandments of Christianity can be superseded on a case-to-case basis on utilitarian grounds of “expediency.” Dymond’s &lt;i&gt;Inquiry&lt;/i&gt; was later cited by his fellow Christian pacifist &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy"&gt;Leo Tolstoy&lt;/a&gt; in &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy/the-kingdom-of-god-is-within-you/leo-wiener"&gt;&lt;i&gt;The Kingdom of God Is Within You&lt;/i&gt;&lt;/a&gt;, further advancing Dymond’s argument that it is the duty of a Christian “mildly and temperately, yet firmly, to refuse to serve” in the military.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>http://www.qhpress.org/texts/dymond/index.html</dc:source>
 		<dc:source>https://archive.org/details/aninquiryintoac06dymogoog</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">45326</meta>
+		<meta property="se:reading-ease.flesch">53.75</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jonathan-dymond_an-inquiry-into-the-accordancy-of-war-with-the-principles-of-christianity</meta>
 		<dc:creator id="author">Jonathan Dymond</dc:creator>
 		<meta property="file-as" refines="#author">Dymond, Jonathan</meta>
@@ -78,6 +78,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Emma Sweeney</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Sweeney, Emma</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.linkedin.com/in/emma-sweeney-554927190/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
