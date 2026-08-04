@@ -45,7 +45,7 @@
 		<meta property="term" refines="#subject-2">sh85096501</meta>
 		<meta property="schema:genre">Philosophy</meta>
 		<meta property="schema:genre">Spirituality</meta>
-		<dc:abstract>Dymond argues that war is incompatible with the teachings of Christianity.</dc:abstract>
+		<meta property="schema:abstract">Dymond argues that war is incompatible with the teachings of Christianity.</meta>
 		<dc:description>
 			&lt;p&gt;In his &lt;i&gt;Inquiry&lt;/i&gt;, the early 19th-century Quaker philosopher &lt;a href="https://standardebooks.org/ebooks/jonathan-dymond"&gt;Jonathan Dymond&lt;/a&gt; investigates the centuries-old question of whether war is compatible with the teachings of Christianity. Examining the question through both the lenses of Christian tradition and secular philosophy, Dymond argues that war is thoroughly incompatible with Christianity in its preceding causes, present reality, and following consequences. Much of the tract is dedicated to refuting the arguments of his opponents, such as claims that certain passages of the Bible sanction war or that the moral commandments of Christianity can be superseded on a case-to-case basis on utilitarian grounds of “expediency.” Dymond’s &lt;i&gt;Inquiry&lt;/i&gt; was later cited by his fellow Christian pacifist &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy"&gt;Leo Tolstoy&lt;/a&gt; in &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy/the-kingdom-of-god-is-within-you/leo-wiener"&gt;&lt;i&gt;The Kingdom of God Is Within You&lt;/i&gt;&lt;/a&gt;, further advancing Dymond’s argument that it is the duty of a Christian “mildly and temperately, yet firmly, to refuse to serve” in the military.&lt;/p&gt;
 		</dc:description>
